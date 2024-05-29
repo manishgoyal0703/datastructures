@@ -19,7 +19,7 @@ public class ContainsDuplicate {
         return false;
     }
 
-    //TC: O(n), SC: O(1)
+    //TC: O(n), SC: O(n)
 
     public static void main(String[] args) {
         ContainsDuplicate duplicate = new ContainsDuplicate();

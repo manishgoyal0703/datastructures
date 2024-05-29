@@ -30,7 +30,7 @@ public class RansomNote {
         return true;
     }
 
-    //TC: O(m + n), SC: O(C)
+    //TC: O(m + n), SC: O(1)
 
     public static void main(String[] args) {
         RansomNote note = new RansomNote();
