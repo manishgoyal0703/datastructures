@@ -43,7 +43,8 @@ Arrays:
 32. Find All Duplicates Numbers In An Array(LC: 442)
 33. First Missing Positive(LC: 41)
 34. Next Permutation(LC: 31)
-35. Largest Subarray With 0 Sum(Contiguous Array)(LC: 525)
+34.5. Largest Subarray With 0 Sum
+35. Contiguous Array (LC: 525)
 36. Subarray Product Less Than K(LC: 713)
 37. K-Diff Pairs In An Array(LC: 532)
 
