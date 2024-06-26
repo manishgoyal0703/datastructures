@@ -50,3 +50,45 @@ Arrays:
 
 Two Pointers:
 38. Two Sum II - Input Array Is Sorted(LC: 167)
+39. Is Subsequence(LC: 392)
+40. Remove duplicates from sorted array(LC: 26)
+41. Sort colors(LC: 75)
+42. Valid palindrome(LC: 125)
+43. Merge sorted array(LC: 88)
+44. 3 Sum(LC: 15)  Pending to learn
+
+Stacks and Queues:
+45. Valid Parentheses(LC: 20)
+46. Asteroid Collisions(LC: 735)
+47. Longest Valid Parentheses(LC: 32)
+48. Decode String(LC: 394)  Pending to learn
+49. Largest Rectangle in Histogram(LC: 84)
+
+Famous Algorithm:
+50. Kaden's Algorithm: Maximum Subarray(LC: 53)
+51. Boyer-Moore Voting Algorithm: Majority Element(LC: 169)
+
+Sorting Algorithm:
+52. Merge Sort Algorithm :Sort an Array:(LC: 912)
+53. Count Inversions - Using Merge Sort
+54. Quick Sort Algorithm
+55. Kth Largest/Smallest - Quick Select:(LC: 215) (will be solved using heap efficiently)
+56. Quick Sort :: Sort an Array:(LC: 912)
+
+2D Arrays / Matrix:
+57. Set Matrix Zeroes(LC: 73)
+58. Range Sum Query 2D - Immutable(LC: 304)
+59. Where will the ball fall(LC: 1706)
+60. Rotate Image(LC: 48)
+
+LinkedList:
+61. Middle of the linked list(LC: 876)
+62. Delete Node in a linked list(LC: 237)
+63. Merge two sorted lists(LC: 21)
+64. Reverse linked lists(LC: 206)
+65. Reverse nodes in k group(LC: 25)
+66. Remove duplicates from sorted list O(N)(LC: 83)
+67. Remove duplicates from sorted list O(1)(LC: 83)
+68. Rotate List(LC: 61)
+69. Reorder List(LC: 143)
+70. Palindrome Linked list(LC: 234)
