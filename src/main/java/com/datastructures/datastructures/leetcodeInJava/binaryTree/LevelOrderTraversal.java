@@ -24,24 +24,23 @@ public class LevelOrderTraversal {
         if(root == null) return traversal;
         Queue<TreeNode> queue = new LinkedList<>();
         queue.add(root);
-        int size = 1;
         while(!queue.isEmpty()){
+            int size = queue.size();
             List<Integer> list = new ArrayList<>();
             while(size > 0){
                 size--;
-                TreeNode node = queue.remove();
+                TreeNode node = queue.poll();
                 list.add(node.val);
                 if(node.left != null) queue.add(node.left);
                 if(node.right != null) queue.add(node.right);
             }
-            size = queue.size();
             traversal.add(list);
         }
 
         return traversal;
     }
 
-    //TC: O(n), SC: O(1)
+    //TC: O(n), SC: O(n)
     public static void main(String[] args) {
         LevelOrderTraversal traversal = new LevelOrderTraversal();
         TreeNode root = traversal.createBinaryTree();

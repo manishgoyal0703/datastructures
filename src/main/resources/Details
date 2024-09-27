@@ -98,16 +98,21 @@ Binary Tree:
 72. Preorder Traversal(LC: 144)
 73. Inorder Traversal(LC: 94)
 74. Postorder Traversal(LC: 145)
-75. Morris Preorder Traversal(LC: 144)
-76. Morris Inorder Traversal(LC: 94)
-77. Minimum Depth of Binary tree(LC: 111)
-78. Maximum Depth of Binary tree(LC: 104)
-79. Diameter of Binary tree(LC: 543)
-80. Flatten Binary tree to Linked list(LC: 114)
-81. Lowest Common Ancestor of binary tree(LC: 236)
-82. Populating next right pointers in each node(LC: 116)
-83. Populating next right pointers in each node - 2 (LC: 117)
-84. Same Tree(LC: 100)
-85. Flip/Invert Binary tree(LC: 226)
+75. Minimum Depth of Binary tree(LC: 111)
+76. Maximum Depth of Binary tree(LC: 104)
+77. Diameter of Binary tree(LC: 543)
+78. Flatten Binary tree to Linked list(LC: 114)
+79. Lowest Common Ancestor of binary tree(LC: 236)
+80. Populating next right pointers in each node(LC: 116)
+81. Same Tree(LC: 100)
+82. Flip/Invert Binary tree(LC: 226)
+83. Morris traversal Inorder and preorder(Pending)
+
+Binary Search Tree(BST):
+84. Inorder successor of BST(LC: 225)
+85. Insert into a BST(LC: 701)
+86. Sorted array to BST(LC: 108)
+87. Construct BST from Preorder Traversal(LC: 1008)
+
 
 
