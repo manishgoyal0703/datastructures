@@ -120,3 +120,15 @@ Trie & Heap:
 90. Implement Trie(LC: 208)
 
 Recursion & Backtracking:
+91. String Permutation Non Duplicates
+92. String Permutation Duplicates(LC: 567)
+93. Permutations Array(LC: 46)
+94. Combinations(LC: 77)
+95. Combination Sum(LC: 39)
+96. Generate Parentheses(LC: 22)
+97. Letter Combinations of a phone number(LC: 17)
+98. Splitting a String into Descending Consecutive values(LC: 1849)
+99. Max Len of a Concatenated Str with Unique Char(LC: 1239)
+100. Partition to k equal sum Subsets(LC: 698)
+101. Rat in Maze
+102. M-Coloring(LC: 1042)
