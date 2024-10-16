@@ -114,5 +114,9 @@ Binary Search Tree(BST):
 86. Sorted array to BST(LC: 108)
 87. Construct BST from Preorder Traversal(LC: 1008)
 
+Trie & Heap:
+88. Kth Largest element in a array(LC: 215)
+89. Find Median in a Data stream(LC: 295)
+90. Implement Trie(LC: 208)
 
-
+Recursion & Backtracking:
