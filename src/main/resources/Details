@@ -121,8 +121,8 @@ Trie & Heap:
 
 Recursion & Backtracking:
 91. String Permutation Non Duplicates
-92. String Permutation Duplicates(LC: 567)
-93. Permutations Array(LC: 46)
+92. String Permutation Duplicates
+93. Permutations Array(LC: 46) : Need to understand again.
 94. Combinations(LC: 77)
 95. Combination Sum(LC: 39)
 96. Generate Parentheses(LC: 22)
