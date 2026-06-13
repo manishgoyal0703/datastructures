@@ -1,10 +1,10 @@
-package com.datastructures.datastructures.leetcodeInJava;
+package test;
 
 import java.awt.Robot;
 import java.awt.event.KeyEvent;
 import java.util.concurrent.TimeUnit;
 
-public class SpaceKeyPresser {
+public class TestAAway {
     public static void main(String[] args) {
         try {Robot robot = new Robot();
             while (true) {
@@ -13,4 +13,13 @@ public class SpaceKeyPresser {
                 TimeUnit.MINUTES.sleep(2);
             }} catch (Exception e) {
             e.printStackTrace();}}}
+
+
+
+
+
+
+
+
+
 
