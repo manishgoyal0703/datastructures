@@ -1,0 +1,164 @@
+
+
+Course Leetcode in Java:
+
+Integers:
+1. FizzBuzz( LC: 412)
+2. Single Number( LC: 136) XOR Gate.
+3. Palindrome Number( LC: 9)
+4. Factorial Trailing Zeroes( LC: 172)
+5. Reverse Integer( LC: 7)
+6. Pow (X, N)( LC: 50)
+7. Roman to Integer(LC: 13)
+8. Integer to Roman(LC: 12)
+
+Strings:
+9. Reverse String(LC: 344)
+10. Longest Common Prefix(LC: 14)
+11. Repeated DNA Sequences(LC: 187)
+12. Valid Anagram(LC: 242)
+13. Longest Palindrome Substring(LC: 5)
+14. Longest Substring Without Repeating Characters(LC: 3)
+15. Reverse Words(LC: 151)
+16. Integer to English Words(LC: 273)
+
+Binary Search:
+17. Binary Search(LC: 704)
+18. Search in Rotated Sorted Array(LC: 33)
+19. Find Minimum In Rotated Sorted Array(LC: 153)
+
+Arrays:
+20. Two Sum(LC: 1)
+21. Move Zeroes(LC: 283)
+22. Best Time to Buy and Sell Stock(LC: 121)
+23. Ransom Note(LC: 383)
+24. Contains Duplicate(LC: 217)
+25. Length of Last Word(LC: 58)
+26. Best Time to Buy and Sell Stock II(LC: 122)
+27. Rotate Array(LC: 189)
+28. Jump Game(LC: 55)
+29. Product Of Array Except Self(LC: 238)
+30. Sequential Digits(LC: 1291)
+31. Find All Disappeared Numbers In An Array(LC: 448)
+32. Find All Duplicates Numbers In An Array(LC: 442)
+33. First Missing Positive(LC: 41)
+34. Next Permutation(LC: 31)
+34.5. Largest Subarray With 0 Sum
+35. Contiguous Array (LC: 525)
+36. Subarray Product Less Than K(LC: 713)
+37. K-Diff Pairs In An Array(LC: 532)
+
+Two Pointers:
+38. Two Sum II - Input Array Is Sorted(LC: 167)
+39. Is Subsequence(LC: 392)
+40. Remove duplicates from sorted array(LC: 26)
+41. Sort colors(LC: 75)
+42. Valid palindrome(LC: 125)
+43. Merge sorted array(LC: 88)
+44. 3 Sum(LC: 15)  Pending to learn
+
+Stacks and Queues:
+45. Valid Parentheses(LC: 20)
+46. Asteroid Collisions(LC: 735)
+47. Longest Valid Parentheses(LC: 32)
+48. Decode String(LC: 394)  Pending to learn
+49. Largest Rectangle in Histogram(LC: 84)
+
+Famous Algorithm:
+50. Kaden's Algorithm: Maximum Subarray(LC: 53)
+51. Boyer-Moore Voting Algorithm: Majority Element(LC: 169)
+
+Sorting Algorithm:
+52. Merge Sort Algorithm :Sort an Array:(LC: 912)
+53. Count Inversions - Using Merge Sort
+54. Quick Sort Algorithm
+55. Kth Largest/Smallest - Quick Select:(LC: 215) (will be solved using heap efficiently)
+56. Quick Sort :: Sort an Array:(LC: 912)
+
+2D Arrays / Matrix:
+57. Set Matrix Zeroes(LC: 73)
+58. Range Sum Query 2D - Immutable(LC: 304)
+59. Where will the ball fall(LC: 1706)
+60. Rotate Image(LC: 48)
+
+LinkedList:
+61. Middle of the linked list(LC: 876)
+62. Delete Node in a linked list(LC: 237)
+63. Merge two sorted lists(LC: 21)
+64. Reverse linked lists(LC: 206)
+65. Reverse nodes in k group(LC: 25)
+66. Remove duplicates from sorted list (LC: 83)
+67. Rotate List(LC: 61)
+68. Reorder List(LC: 143)
+69. Palindrome Linked list(LC: 234)
+
+Binary Tree:
+70. Level Order Traversal(LC: 102)
+71. Zigzag Level Order Traversal(LC: 103)
+72. Preorder Traversal(LC: 144)
+73. Inorder Traversal(LC: 94)
+74. Postorder Traversal(LC: 145)
+75. Minimum Depth of Binary tree(LC: 111)
+76. Maximum Depth of Binary tree(LC: 104)
+77. Diameter of Binary tree(LC: 543)
+78. Flatten Binary tree to Linked list(LC: 114)
+79. Lowest Common Ancestor of binary tree(LC: 236)
+80. Populating next right pointers in each node(LC: 116)
+81. Same Tree(LC: 100)
+82. Flip/Invert Binary tree(LC: 226)
+83. Morris traversal Inorder and preorder(Pending)
+
+Binary Search Tree(BST):
+84. Inorder successor of BST(LC: 225)
+85. Insert into a BST(LC: 701)
+86. Sorted array to BST(LC: 108)
+87. Construct BST from Preorder Traversal(LC: 1008)
+
+Trie & Heap:
+88. Kth Largest element in a array(LC: 215)
+89. Find Median in a Data stream(LC: 295)
+90. Implement Trie(LC: 208)
+
+Recursion & Backtracking:
+91. String Permutation Non Duplicates
+92. String Permutation Duplicates
+93. Permutations Array(LC: 46) : Need to understand again.
+94. Combinations(LC: 77)
+95. Combination Sum(LC: 39)
+96. Generate Parentheses(LC: 22)
+97. Letter Combinations of a phone number(LC: 17)
+98. Splitting a String into Descending Consecutive values(LC: 1849)
+99. Max Len of a Concatenated Str with Unique Char(LC: 1239)
+100. Partition to k equal sum Subsets(LC: 698)
+101. Rat in Maze
+102. M-Coloring(LC: 1042)
+
+Graph Theory:
+103. Number of Islands (LC: 200)
+104. All paths from source to target (LC: 797)
+105. Clone a graph (LC: 133)
+106. Birpartite graph (LC: 785)
+107. Topological sort - Kahn's Algorithm
+
+Dynamic Programming:
+108. Fibonacci Number (LC: 509)
+109. Climbing Stairs (LC: 70)
+110. Unique Path (LC: 62)
+111. Partition Equal Subset Sum (LC: 416) Pending
+112. House Robber (LC: 198)
+113. Coin Change (LC: 322)
+114. Decode Ways (LC: 91)
+115. Word Break (LC: 139)
+116. Edit Distance (LC: 72)
+117. Interleaving String (LC: 97) Pending
+118. Longest Increasing Subsequence (LC: 300)
+119. Longest Common Subsequence (LC: 1143)
+120. Longest Palindrome Subsequence (LC: 516)
+
+Bit Manipulation:
+121. Power Set
+122. Complement of base 10 Integer (LC: 1009)
+123. Sum of Two Integers (LC: 371)
+124. Divide Two Integers (LC: 29)
+
+//TC: O(), SC: O()
